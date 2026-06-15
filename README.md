@@ -28,7 +28,4 @@ This repository contains solutions for various LEGO EV3 robotics challenges, dem
 - **Sensabot Classic** – Classic line-following or maze-solving logic.  
 - **Vacuum** – Simulated cleaning behavior with motors and sensors.  
 
----
-
-## Structure
 
