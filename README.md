@@ -7,7 +7,7 @@ Each folder contains a challenge with the corresponding C source code and explan
 
 ## Overview
 
-This repository contains solutions for various LEGO EV3 robotics challenges, demonstrating sensor usage, motor control, and algorithmic problem-solving in C. Each source file includes comments explaining the hardware setup, logic, and control flow.
+This repository contains solutions for various LEGO EV3 robotics challenges, demonstrating sensor usage, motor control, and algorithmic problem-solving in C.
 
 ---
 
